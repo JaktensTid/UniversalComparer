@@ -1,0 +1,6 @@
+D:\VisualStudioProjects\04.09.2017_UniversalComparer\04.09.2017_UniversalComparer\bin\Debug\04.09.2017_UniversalComparer.exe.config
+D:\VisualStudioProjects\04.09.2017_UniversalComparer\04.09.2017_UniversalComparer\bin\Debug\04.09.2017_UniversalComparer.exe
+D:\VisualStudioProjects\04.09.2017_UniversalComparer\04.09.2017_UniversalComparer\bin\Debug\04.09.2017_UniversalComparer.pdb
+D:\VisualStudioProjects\04.09.2017_UniversalComparer\04.09.2017_UniversalComparer\obj\Debug\04.09.2017_UniversalComparer.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\04.09.2017_UniversalComparer\04.09.2017_UniversalComparer\obj\Debug\04.09.2017_UniversalComparer.exe
+D:\VisualStudioProjects\04.09.2017_UniversalComparer\04.09.2017_UniversalComparer\obj\Debug\04.09.2017_UniversalComparer.pdb
